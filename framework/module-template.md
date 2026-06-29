@@ -223,7 +223,31 @@ The interviewer should:
 
 ---
 
-## 13. AI Reviewer Prompt
+## 13. Interview Report
+
+Specify the required output format for the interviewer.
+
+The report should contain
+
+Module
+
+Persona
+
+Questions
+
+Candidate Answers
+
+Strengths
+
+Weaknesses
+
+Interview Level Reached
+
+Summary
+
+---
+
+## 14. AI Reviewer Prompt
 
 Generate a prompt that reviews interview performance.
 
@@ -235,7 +259,31 @@ The reviewer should:
 
 ---
 
-## 14. Microsoft Learn References
+## 15. Evaluation Report
+
+Specify the required output format.
+
+The report should contain
+
+Evaluation Scores
+
+Gap Severity
+
+Critical Gaps
+
+Major Gaps
+
+Minor Gaps
+
+Recommended Gap Closure
+
+Validation Required
+
+Interview Readiness
+
+
+
+## 16. Microsoft Learn References
 
 Recommend only the official Microsoft Learn content relevant to this module.
 
@@ -243,7 +291,7 @@ Do not recommend unrelated documentation.
 
 ---
 
-## 15. Exit Criteria
+## 17. Exit Criteria
 
 Provide measurable completion criteria.
 
@@ -257,7 +305,7 @@ Example:
 
 ---
 
-## 16. Self Assessment
+## 18. Self Assessment
 
 Provide a checklist.
 

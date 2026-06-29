@@ -39,27 +39,35 @@ The framework is designed to maximize architectural thinking rather than factual
 Every learning module follows exactly the same sequence.
 
 ```
-Learn
+Teacher
 
 ↓
 
-Understand
+Coach
 
 ↓
 
-Discuss
+Interviewer
 
 ↓
 
-Interview
+Interview Report
 
 ↓
 
-Review
+Reviewer
 
 ↓
 
-Repeat (if required)
+Evaluation Report
+
+↓
+
+Gap Closure (if required)
+
+↓
+
+Validation Interview
 
 ↓
 
@@ -286,6 +294,20 @@ One AI conversation
 One objective
 
 This reduces context pollution and improves response quality.
+
+---
+
+# Standard Artifacts
+
+Every completed interview produces an Interview Report.
+
+Every completed review produces an Evaluation Report.
+
+These artifacts are passed between AI sessions.
+
+AI assistants should never rely on previous conversation history.
+
+Only the generated artifacts.
 
 ---
 

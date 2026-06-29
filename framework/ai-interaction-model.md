@@ -283,6 +283,46 @@ The AI assistant may recommend actions but never controls the workflow.
 
 ---
 
+# Session Output
+
+Every interaction mode produces a standard artifact.
+
+Teacher
+
+Learning completed.
+
+No artifact required.
+
+Coach
+
+Learning completed.
+
+No artifact required.
+
+Interviewer
+
+Produces
+
+Interview Report
+
+Reviewer
+
+Consumes Interview Report.
+
+Produces Evaluation Report.
+
+Gap Closure
+
+Consumes Evaluation Report.
+
+Validation Interview
+
+Consumes Evaluation Report.
+
+Produces PASS or FAIL.
+
+---
+
 # Definition of Done
 
 The AI Interaction Model is correctly implemented when every AI conversation has:
