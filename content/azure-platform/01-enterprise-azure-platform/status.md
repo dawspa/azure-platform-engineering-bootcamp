@@ -1,4 +1,4 @@
-Status: Not Started
+Status: Generated
 
 Teacher: Pending
 
