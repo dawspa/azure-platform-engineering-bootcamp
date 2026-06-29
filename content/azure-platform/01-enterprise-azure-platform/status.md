@@ -12,4 +12,4 @@ Gap Closure: Pending
 
 Validation: Pending
 
-Completed:
+Completed:noted prompts
